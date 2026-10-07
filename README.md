@@ -2,4 +2,4 @@
 ------
 ## Algoritmos de análisis del usuario y contenido de los medios informativos 
 ##### 1. Introducción
-En la actualidad, los medios informativos constituyen 
+En la actualidad, los medios informativos constituyen prueba prueba pruba
